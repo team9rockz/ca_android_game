@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="label_fetch">Fetch</string>
+    <string name="hint_url">Enter url</string>
+    <string name="download_progress">Downloading %1$d of %2$d</string>
+    <string name="permission_req_msg">Permissions are mandatory</string>
+    <string name="pair_match">%1$d / %2$d</string>
+    <string name="label_retry">RETRY</string>
+    <string name="label_cancel">CANCEL</string>
+    <string name="empty_msg">No Images Found</string>
+    <string name="img_selection">Selected : %1$d of %2$d</string>
+</resources>
